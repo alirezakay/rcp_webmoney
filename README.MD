@@ -12,7 +12,7 @@ Please *Note That* this works only for the newer versions of RCP **>= 3.0** prob
 Webmoney is something like PayPal. please visit their site at: \
 https://www.wmtransfer.com/
 
-You can see and congigure your **purses** after creating a personal/merchant account here: \
+You can see and configure your **purses** after creating a personal/merchant account here: \
 https://merchant.wmtransfer.com/conf/purses.asp
 
 <br>
