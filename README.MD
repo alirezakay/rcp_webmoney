@@ -46,6 +46,9 @@ For changing the options and fields of each purse, click on the *change* button 
 
 5. Set the **Control sign forming method** to `SHA256`. (required). This is very important; this plugin uses the *sha256* hash method.
 
+More guides for the API on their website: \
+https://merchant.wmtransfer.com/conf/guide.asp
+
 ---
 
 ### HOW TO ADD THIS PLUGIN TO WORDPRESS
